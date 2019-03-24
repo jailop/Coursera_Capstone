@@ -38,4 +38,4 @@ Data processing:
   recommended to visit.
 - For each neighborhood recommended to visit, a list of top venues will be
   gotten from the Foursquare API based on user category preferences.
-
+- A neighborhood venues map will be shown based on user preferences.
