@@ -23,7 +23,7 @@ Data sources:
 Link: <https://opendata.dc.gov/datasets/neighborhood-labels>  
 The dataset contains neighborhood labels provided by the DC Office of Planning (DCOP).
 - Foursquare API (explore and venues)  
-https:<//developer.foursquare.com/>
+Link: <https://developer.foursquare.com/>
 
 Data processing:
 
