@@ -27,13 +27,15 @@ Link: <https://developer.foursquare.com/>
 
 Data processing:
 
-From “Neighborhood Labels”, label and location data for each Washington D.C.
-neighborhood will be obtained.  Using location for each neighborhood, a list of
-venues will be obtained. A category-record will be created for each neighborhood
-counting how many venues are by category.  An user input area will created.
-Users could pick among different categories to get recommendation on which
-neighborhoods to visit.  Using clustering, the more similar user preferences
-neighborhoods will recommended to visit.  For each neighborhood recommended to
-visit, a list of top venues will be gotten from the Foursquare API based on user
-category preferences.
+- From “Neighborhood Labels”, label and location data for each Washington D.C.
+  neighborhood will be obtained.
+- Using location for each neighborhood, a list of venues will be obtained. A
+  category-record will be created for each neighborhood counting how many venues
+  are by category.
+- An user input area will created.  Users could pick among different categories
+  to get recommendation on which neighborhoods to visit.
+- Using clustering, the more similar user preferences neighborhoods will
+  recommended to visit.
+- For each neighborhood recommended to visit, a list of top venues will be
+  gotten from the Foursquare API based on user category preferences.
 
